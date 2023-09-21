@@ -1,8 +1,24 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Web Templete Learning 4
 
-Currently, two official plugins are available:
+This WebSite I use templete idea from free website templete I write code follow model templete by Vite and Swiper for make sides
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+
+
+
+
+
+## Libary
+
+**lang:** html, css and js
+
+**Libary:** Vite , Swiper
+
+
+## Preview
+
+ - [Vite Web-site-4](https://web-lernning-template-4.onrender.com)
+
